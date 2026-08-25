@@ -29,3 +29,4 @@ r'[02468][A-Z]*[02468]'
 from re import *
 with open() as f:
     data = f.readlines()
+matches = []
